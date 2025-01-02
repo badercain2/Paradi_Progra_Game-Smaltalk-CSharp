@@ -1,0 +1,14 @@
+/home/josuecenturion/Descargas/Demo/Demo/bin/Debug/net8.0/Demo
+/home/josuecenturion/Descargas/Demo/Demo/bin/Debug/net8.0/Demo.deps.json
+/home/josuecenturion/Descargas/Demo/Demo/bin/Debug/net8.0/Demo.runtimeconfig.json
+/home/josuecenturion/Descargas/Demo/Demo/bin/Debug/net8.0/Demo.dll
+/home/josuecenturion/Descargas/Demo/Demo/bin/Debug/net8.0/Demo.pdb
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.AssemblyInfoInputs.cache
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.AssemblyInfo.cs
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.csproj.CoreCompileInputs.cache
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.dll
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/refint/Demo.dll
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.pdb
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/Demo.genruntimeconfig.cache
+/home/josuecenturion/Descargas/Demo/Demo/obj/Debug/net8.0/ref/Demo.dll
