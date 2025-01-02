@@ -1,0 +1,45 @@
+01 ¿Cuál es la unidad básica de la vida? A) Tejido%B) Célula%C) Órgano%D) Sistema% B
+02 ¿Qué elemento químico tiene el símbolo "O"? A) Oxígeno%B) Oro%C) Plata%D) Osmio% A
+03 ¿Quién propuso la teoría de la relatividad? A) Isaac Newton%B) Albert Einstein%C) Niels Bohr%D) Galileo Galilei% B
+04 ¿Cuál es la fuerza que atrae a los objetos hacia el centro de la Tierra? A) Fricción%B) Magnetismo%C) Gravedad%D) Inercia% C
+05 ¿Qué tipo de organismo se encuentra en el reino Fungi? A) Plantas%B) Animales%C) Hongos%D) Bacterias% C
+06 ¿Cuál es la función principal de la clorofila en las plantas? A) Absorber agua%B) Realizar la fotosíntesis%C) Almacenar nutrientes%D) Producir semillas% B
+07 ¿Qué parte del cuerpo humano es responsable de bombear la sangre? A) Pulmones%B) Hígado%C) Corazón%D) Riñones% C
+08 ¿Cuál es el planeta más grande del sistema solar? A) Tierra%B) Saturno%C) Júpiter%D) Neptuno% C
+09 ¿Qué gas es esencial para la respiración humana? A) Dióxido de carbono%B) Oxígeno%C) Nitrógeno%D) Hidrógeno% B
+10 ¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía? A) Fotosíntesis%B) Respiración%C) Fermentación%D) Evaporación% A
+11 ¿Qué órgano del cuerpo humano es responsable de la producción de insulina? A) Páncreas%B) Hígado%C) Estómago%D) Riñones% A
+12 ¿Cuál es la velocidad de la luz en el vacío? A) 300,000 km/s%B) 150,000 km/s%C) 100,000 km/s%D) 50,000 km/s% A
+13 ¿Cuál es el principal componente del sol? A) Helio%B) Hidrógeno%C) Oxígeno%D) Carbono% B
+14 ¿Qué tipo de célula es responsable de la defensa del cuerpo contra infecciones? A) Neurona%B) Glóbulo rojo%C) Glóbulo blanco%D) Célula epitelial% C
+15 ¿Quién formuló la ley de la gravedad? A) Albert Einstein%B) Isaac Newton%C) Galileo Galilei%D) Nikola Tesla% B
+16 ¿Cuál es el principal ácido encontrado en el estómago? A) Ácido acético%B) Ácido clorhídrico%C) Ácido cítrico%D) Ácido sulfúrico% B
+17 ¿Qué es la mitosis? A) Proceso de división celular%B) Proceso de fusión celular%C) Proceso de síntesis de proteínas%D) Proceso de respiración celular% A
+18 ¿Cuál es el nombre del proceso en el que el agua se convierte en vapor? A) Condensación%B) Evaporación%C) Precipitación%D) Transpiración% B
+19 ¿Qué es un átomo? A) La unidad más pequeña de un elemento%B) Una colección de células%C) Un tipo de energía%D) Un organismo unicelular% A
+20 ¿Qué tipo de energía se almacena en los alimentos? A) Energía térmica%B) Energía cinética%C) Energía química%D) Energía eléctrica% C
+21 ¿Cuál es la función de los riñones? A) Filtrar la sangre y producir orina%B) Regular la temperatura corporal%C) Producir hormonas%D) Transportar oxígeno% A
+22 ¿Qué tipo de microorganismo puede causar enfermedades? A) Virus%B) Bacterias%C) Hongos%D) Todos los anteriores% D
+23 ¿Cuál es el nombre del sistema que regula las funciones del cuerpo mediante hormonas? A) Sistema nervioso%B) Sistema inmunológico%C) Sistema endocrino%D) Sistema digestivo% C
+24 ¿Qué es la energía renovable? A) Energía que no se puede utilizar%B) Energía que se obtiene de fuentes naturales que se regeneran%C) Energía producida a partir de combustibles fósiles%D) Energía que se pierde en el medio ambiente% B
+25 ¿Cuál es el elemento más abundante en el universo? A) Helio%B) Hidrógeno%C) Oxígeno%D) Carbono% B
+26 ¿Qué es un ecosistema? A) Un grupo de organismos de la misma especie%B) Un ambiente físico sin organismos%C) Una comunidad de organismos y su entorno%D) Una colección de células% C
+27 ¿Cuál es el proceso a través del cual las plantas absorben agua del suelo? A) Evaporación%B) Transpiración%C) Filtración%D) Ósmosis% D
+28 ¿Qué es la teoría de la evolución? A) La idea de que las especies son inmutables%B) La explicación de cómo las especies cambian con el tiempo%C) La creencia en la creación divina de las especies%D) Un concepto sin fundamento científico% B
+29 ¿Qué tipo de energía se produce en las células durante el proceso de respiración? A) Energía térmica%B) Energía eléctrica%C) Energía química%D) Energía mecánica% C
+30 ¿Cuál es la principal fuente de energía de la Tierra? A) El sol%B) El viento%C) El agua%D) El calor del interior de la Tierra% A
+31 ¿Qué es la fotosíntesis? A) Proceso por el cual los animales producen energía%B) Proceso por el cual las plantas convierten la luz solar en energía%C) Proceso de respiración celular%D) Proceso de digestión de alimentos% B
+32 ¿Qué es un fenómeno físico? A) Un evento que no se puede medir%B) Un evento que involucra cambios en la materia%C) Un evento causado por la actividad humana%D) Un evento que no tiene causa% B
+33 ¿Cuál es el principal gas de efecto invernadero? A) Dióxido de carbono%B) Metano%C) Oxígeno%D) Nitrógeno% A
+34 ¿Qué es el ADN? A) Un tipo de proteína%B) Una molécula que almacena información genética%C) Un tipo de azúcar%D) Un ácido mineral% B
+35 ¿Qué tipo de energía se transforma en energía eléctrica en una planta de energía hidroeléctrica? A) Energía solar%B) Energía cinética%C) Energía térmica%D) Energía química% B
+36 ¿Qué tipo de fuerza es la fricción? A) Fuerza de atracción%B) Fuerza de repulsión%C) Fuerza de contacto%D) Fuerza a distancia% C
+37 ¿Qué es la biología? A) El estudio de las estrellas%B) El estudio de la vida y los organismos%C) El estudio de la Tierra%D) El estudio de la química% B
+38 ¿Cuál es el proceso mediante el cual los seres vivos producen energía a partir de los nutrientes? A) Respiración celular%B) Fotosíntesis%C) Digestión%D) Fermentación% A
+39 ¿Qué es el sistema nervioso central? A) Un sistema de órganos que producen hormonas%B) El sistema que conecta los músculos con el cerebro%C) El sistema que incluye el cerebro y la médula espinal%D) Un conjunto de células que combaten enfermedades% C
+40 ¿Cuál es el proceso de eliminación de residuos del cuerpo humano? A) Absorción%B) Excreción%C) Ingestión%D) Circulación% B
+41 ¿Qué es un gen? A) La unidad de herencia que se encuentra en el ADN%B) Una proteína que regula las funciones celulares%C) Un tipo de célula%D) Un microorganismo% A
+42 ¿Cuál es el principal gas en la atmósfera terrestre? A) Dióxido de carbono%B) Oxígeno%C) Nitrógeno%D) Helio% C
+43 ¿Qué son los ácidos? A) Sustancias que donan electrones%B) Sustancias que tienen un pH menor a 7%C) Sustancias que reaccionan con bases%D) Todas las anteriores% D
+44 ¿Qué tipo de bioma se caracteriza por un clima seco y vegetación escasa? A) Tundra%B) Selva%C) Desierto%D) Bosque templado% C
+45 ¿Cuál es el nombre de la teoría que describe la formación del universo a partir de una gran explosión? A) Teoría de la evolución%B) Teoría de la relatividad%C) Big Bang%D) Teoría de cuerdas% C

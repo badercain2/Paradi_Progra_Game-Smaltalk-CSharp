@@ -1,0 +1,1 @@
+OmEntry {	#tags : {		#timestamp : DateAndTime [ '2024-11-24T21:24:08.559-03:00' ],		#self : OmReference [ '1' ]	},	#content : '()'}OmEntry {	#tags : {		#timestamp : DateAndTime [ '2024-11-24T21:24:13.865-03:00' ],		#self : OmReference [ '2' ]	},	#content : '(Tablero new) iniciarJuego '}

@@ -1,0 +1,30 @@
+01 ¿Quién pintó "La Gioconda"?A) Miguel Ángel%B) Leonardo da Vinci%C) Raphael%D) Botticelli% B
+02 ¿Cuál es el movimiento artístico asociado con Vincent van Gogh?A) Impresionismo%B) Expresionismo%C) Postimpresionismo%D) Surrealismo% C
+03 ¿Qué famoso muralista mexicano pintó "El hombre controlador del universo"?A) Diego Rivera%B) David Alfaro Siqueiros%C) José Clemente Orozco%D) Rufino Tamayo% A
+04 ¿Cuál es la técnica que utiliza la aplicación de pequeñas pinceladas de color puro para crear una imagen?A) Claroscuro%B) Puntillismo%C) Acrílico%D) Acuarela%B
+05 ¿Quién es conocido como el padre del Cubismo?A) Georges Braque%B) Pablo Picasso%C) Juan Gris%D) Henri Matisse% A
+06 ¿Cuál es la obra maestra de Edvard Munch que representa la angustia humana?A) El beso%B) La joven de la perla%C) El grito%D) La persistencia de la memoria% C
+07 ¿Qué artista es famoso por su serie de pinturas de girasoles?A) Claude Monet%B) Vincent van Gogh%C) Henri Matisse%D) Gustav Klimt% B
+08 ¿En qué museo se encuentra la famosa obra "La noche estrellada"?A) Museo del Louvre%B) Museo de Arte Moderno (MoMA)%C) Museo de Orsay%D) Galería Nacional de Arte% B
+09 ¿Quién pintó la famosa obra "Las meninas"?A) Francisco de Goya%B) Diego Velázquez%C) El Greco%D) Pablo Picasso% B
+10 ¿Qué movimiento artístico se caracteriza por su enfoque en la luz y el color, y que surgió a finales del siglo XIX en Francia?A) Realismo%B) Romanticismo%C) Impresionismo%D) Barroco% C
+11 ¿Qué pintor español es conocido por su estilo surrealista y su obra "La persistencia de la memoria"?A) Salvador Dalí%B) Joan Miró%C) Pablo Picasso%D) Francisco Goya% A
+12 ¿Cuál es la técnica que consiste en aplicar pintura sobre una superficie seca con la ayuda de agua?A) Acuarela%B) Fresco%C) Óleo%D) Acrílico% A
+13 ¿Quién es el escultor famoso por sus obras de mármol, como "David" y "Piedad"?A) Donatello%B) Miguel Ángel%C) Bernini%D) Rodin% B
+14 ¿En qué siglo se desarrolló el Renacimiento?A) Siglo XII%B) Siglo XIV%C) Siglo XV%D) Siglo XVI% B
+15 ¿Cuál es el nombre de la famosa serie de obras de Andy Warhol que retrata latas de sopa?A) "Marilyn Diptych"%B) "Campbell's Soup Cans"%C) "Brillo Boxes"%D) "Gold Marilyn"% B
+16 ¿Qué famosa escultura de Rodin representa a un hombre sentado en profunda reflexión?A) El beso%B) El pensador%C) El porteador%D) La puerta del infierno% B
+17 ¿Quién es conocido por su obra "La joven de la perla"?A) Johannes Vermeer%B) Rembrandt%C) Van Gogh%D) Claude Monet% A
+18 ¿Qué movimiento artístico surgió en Italia a finales del siglo XIX y se caracterizó por el uso de la luz y el color?A) Realismo%B) Impresionismo%C) Futurismo%D) Neoclasicismo% B
+19 ¿Qué artista es famoso por sus obras en collage y su estilo único que combina pintura y escultura?A) Henri Matisse%B) Pablo Picasso%C) Georges Braque%D) Juan Gris% B
+20 ¿Quién pintó "La escuela de Atenas"?A) Rafael%B) Leonardo da Vinci%C) Miguel Ángel%D) Tiziano% A
+21 ¿Cuál es la técnica utilizada por los artistas para crear una ilusión de profundidad en una pintura?A) Perspectiva lineal%B) Claroscuro%C) Impresión%D) Colorido% A
+22¿En qué museo se encuentra la obra "El nacimiento de Venus" de Botticelli?A) Museo del Louvre%B) Galería Uffizi%C) Museo de Orsay%D) Museo Nacional del Prado% B
+23 ¿Qué artista es conocido por su serie de pinturas de "Café en la noche"?A) Van Gogh%B) Paul Cézanne%C) Henri Matisse%D) Edgar Degas% A
+24 ¿Cuál es la técnica que consiste en aplicar pintura en una superficie húmeda para que se mezcle?A) Fresco%B) Acrílico%C) Óleo%D) Acuarela% A
+25 ¿Quién pintó "La batalla de San Romano"?A) Paolo Uccello%B) Sandro Botticelli%C) Leonardo da Vinci%D) Miguel Ángel% A
+26 ¿Qué movimiento artístico se caracteriza por su énfasis en la emoción y la individualidad?A) Romanticismo%B) Barroco%C) Realismo%D) Neoclasicismo% A
+27 ¿Quién es conocido como el maestro del claroscuro?A) Caravaggio%B) Rembrandt%C) Vermeer%D) El Greco% B
+28 ¿Qué artista es famoso por sus retratos de la familia real española y sus obras de gran tamaño?A) Francisco de Goya%B) Diego Velázquez%C) El Greco%D) Pablo Picasso% B
+29 ¿En qué ciudad se encuentra la famosa pintura "La última cena"?A) Roma%B) Milán%C) Florencia%D) Venecia% B
+30 ¿Cuál es el estilo artístico que enfatiza la representación naturalista y realista de la vida cotidiana?A) Realismo%B) Surrealismo%C) Impresionismo%D) Expresionismo% A

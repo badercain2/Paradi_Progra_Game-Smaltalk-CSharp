@@ -1,0 +1,39 @@
+[31mPharo cannot write to the changes file named C:\Users\tiago\Documents\Pharo\images\PP-C2-F-BBGQS\PP-C2-F-BBGQS.changes.
+
+Please check that you have write permission for this file.
+
+You won't be able to save this image correctly until you fix this.
+[0mStartupUIManager>>inform:
+PharoFilesOpener(Object)>>inform:
+PharoFilesOpener>>inform:withRef:
+PharoFilesOpener>>inform:withChangesRef:
+PharoFilesOpener>>informProblemInChanges:
+PharoFilesOpener>>changesFileOrNilReadOnly:silent:
+PharoFilesOpener>>changesFileOrNilReadOnly:
+PharoFilesOpener>>changesFileOrNil
+SourceFileArray>>ensureOpen
+SmalltalkImage>>openSourceFiles
+SourceFileArray class>>startUp:
+ClassSessionHandler>>startup:
+[ :arg2 | arg2 startup: arg1 ] in WorkingSession>>runStartup: in Block: [ :arg2 | arg2 startup: arg1 ]
+[ arg2 value: arg3 ] in [ :arg3 | 
+		[ arg2 value: arg3 ]
+			on: Exception
+			do: [ :arg4 | self errorHandler handleError: arg4 ] ] in WorkingSession>>runList:do: in Block: [ arg2 value: arg3 ]
+FullBlockClosure(BlockClosure)>>on:do:
+[ :arg3 | 
+		[ arg2 value: arg3 ]
+			on: Exception
+			do: [ :arg4 | self errorHandler handleError: arg4 ] ] in WorkingSession>>runList:do: in Block: [ :arg3 | ...
+Array(SequenceableCollection)>>do:
+WorkingSession>>runList:do:
+WorkingSession>>runStartup:
+WorkingSession>>start:
+SessionManager>>launchSnapshot:andQuit:
+[ 
+	tmp3 := self launchSnapshot: arg1 andQuit: arg2.
+	tmp1 signal ] in SessionManager>>snapshot:andQuit: in Block: [ ...
+[ 
+			  self value.
+			  Processor terminateActive ] in FullBlockClosure(BlockClosure)>>newProcess in Block: [ ...
+[0m

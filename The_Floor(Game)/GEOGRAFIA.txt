@@ -1,0 +1,45 @@
+01 ¿Cuál es el río más largo del mundo? A) Amazonas%B) Nilo%C) Yangtsé%D) Misisipi% A  
+02 ¿En qué país se encuentra el Monte Everest? A) India%B) Nepal%C) China%D) Bután% B  
+03 ¿Qué país tiene la mayor cantidad de islas en el mundo? A) Indonesia%B) Canadá%C) Filipinas%D) Suecia% D  
+04 ¿Cuál es el desierto más grande del mundo? A) Desierto del Sahara%B) Desierto de Gobi%C) Desierto de la Antártida%D) Desierto de Atacama% C  
+05 ¿Cuál es el país más pequeño del mundo? A) Mónaco%B) Ciudad del Vaticano%C) San Marino%D) Liechtenstein% B  
+06 ¿Qué océano es el más grande por superficie? A) Atlántico%B) Índico%C) Pacífico%D) Ártico% C  
+07 ¿Cuál es la capital de Australia? A) Sídney%B) Melbourne%C) Canberra%D) Brisbane% C  
+08 ¿En qué continente se encuentra el río Amazonas? A) África%B) Asia%C) América del Sur%D) Europa% C  
+09 ¿Qué país tiene la mayor población del mundo? A) Estados Unidos%B) India%C) China%D) Indonesia% C  
+10 ¿Cuál es el continente más grande por superficie? A) África%B) América%C) Asia%D) Europa% C  
+11 ¿En qué continente se encuentra Egipto? A) Asia%B) África%C) Europa%D) América% B  
+12 ¿Cuál es el país más grande de África por superficie? A) Argelia%B) Sudáfrica%C) Nigeria%D) Egipto% A  
+13 ¿Cuál es el país más grande de América del Sur por superficie? A) Argentina%B) Brasil%C) Chile%D) Perú% B  
+14 ¿Qué cordillera es la más larga del mundo? A) Himalaya%B) Andes%C) Alpes%D) Montañas Rocosas% B  
+15 ¿Cuál es la capital de Canadá? A) Toronto%B) Ottawa%C) Vancouver%D) Montreal% B  
+16 ¿Qué país europeo tiene la mayor cantidad de volcanes activos? A) Italia%B) Islandia%C) Grecia%D) Turquía% A  
+17 ¿Qué mar separa Europa de África? A) Mar Mediterráneo%B) Mar Rojo%C) Mar Negro%D) Mar Caspio% A  
+18 ¿En qué país se encuentran las cataratas del Iguazú? A) Brasil%B) Argentina%C) Paraguay%D) Uruguay% B  
+19 ¿Cuál es el lago más grande del mundo por superficie? A) Lago Superior%B) Lago Victoria%C) Mar Caspio%D) Lago Baikal% C  
+20 ¿En qué país está la ciudad de Machu Picchu? A) Bolivia%B) México%C) Perú%D) Ecuador% C  
+21 ¿Cuál es el país más grande del mundo por superficie? A) Canadá%B) Estados Unidos%C) China%D) Rusia% D  
+22 ¿Qué país sudamericano no tiene salida al mar? A) Paraguay%B) Uruguay%C) Chile%D) Venezuela% A  
+23 ¿Qué capital europea es atravesada por el río Danubio? A) Berlín%B) Budapest%C) Viena%D) Praga% B  
+24 ¿Qué país es conocido como "la tierra del sol naciente"? A) Corea del Sur%B) China%C) Japón%D) Filipinas% C  
+25 ¿Cuál es el punto más alto de África? A) Monte Kenia%B) Kilimanjaro%C) Monte Meru%D) Drakensberg% B  
+26 ¿En qué país se encuentra el famoso desierto de Atacama? A) Perú%B) Chile%C) Argentina%D) Bolivia% B  
+27 ¿Qué país europeo tiene la mayor población? A) Reino Unido%B) Francia%C) Alemania%D) España% C  
+28 ¿Cuál es el archipiélago más grande del mundo? A) Japón%B) Filipinas%C) Maldivas%D) Indonesia% D  
+29 ¿Cuál es la capital de Egipto? A) El Cairo%B) Alejandría%C) Luxor%D) Asuán% A  
+30 ¿Qué país limita con más países en el mundo? A) Rusia%B) Brasil%C) China%D) India% C  
+31 ¿Qué mar rodea a la península de Yucatán? A) Mar Caribe%B) Golfo de México%C) Mar de Cortés%D) Océano Atlántico% B  
+32 ¿Qué cadena montañosa separa Europa de Asia? A) Alpes%B) Himalaya%C) Urales%D) Cárpatos% C  
+33 ¿Cuál es la ciudad más poblada de Brasil? A) Río de Janeiro%B) Sao Paulo%C) Brasilia%D) Belo Horizonte% B  
+34 ¿Qué país sudamericano tiene dos capitales oficiales? A) Bolivia%B) Colombia%C) Venezuela%D) Ecuador% A  
+35 ¿Cuál es el océano más frío del mundo? A) Atlántico%B) Índico%C) Pacífico%D) Ártico% D  
+36 ¿En qué continente se encuentra el país de Bután? A) África%B) Asia%C) Europa%D) América% B  
+37 ¿Cuál es la península más grande del mundo? A) Península Arábiga%B) Península Ibérica%C) Península Escandinava%D) Península de Yucatán% A  
+38 ¿Qué país europeo tiene forma de bota? A) Portugal%B) Grecia%C) Italia%D) España% C  
+39 ¿Cuál es el país más grande de Oceanía? A) Nueva Zelanda%B) Papúa Nueva Guinea%C) Australia%D) Fiyi% C  
+40 ¿Qué estrecho separa Asia de América? A) Estrecho de Magallanes%B) Estrecho de Bering%C) Estrecho de Gibraltar%D) Estrecho de Malaca% B  
+41 ¿En qué país se encuentra el Gran Cañón? A) Canadá%B) México%C) Estados Unidos%D) Brasil% C  
+42 ¿Cuál es el país más extenso de América Central? A) Panamá%B) Nicaragua%C) Costa Rica%D) Honduras% B  
+43 ¿Qué río atraviesa la ciudad de Londres? A) Támesis%B) Danubio%C) Sena%D) Rin% A  
+44 ¿Cuál es la montaña más alta de América del Sur? A) Nevado Huascarán%B) Monte Chimborazo%C) Monte Roraima%D) Aconcagua% D  
+45 ¿Cuál es el país más poblado de África? A) Sudáfrica%B) Egipto%C) Nigeria%D) Etiopía% C  
