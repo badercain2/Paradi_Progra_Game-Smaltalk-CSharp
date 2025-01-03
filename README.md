@@ -13,5 +13,4 @@ Starting the Game To start the game, enter the following line of code in the Pla
 
 (Tablero new) iniciarJuego
 
-A short video to see the demonstration. link: ""
-
+A short video to see the demonstration. link: "https://youtu.be/22Sr3_Efnms"
